@@ -1,0 +1,43 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+//引用头文件
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "ConstsConfig.h"
+#import "UIImageExtend.h"
+#import "TcpClient.h"
+#endif
+
+//注释nslog
+
+#ifndef __OPTIMIZE__
+#define NSLog(...) NSLog(__VA_ARGS__)
+#else
+#define NSLog(...) {}
+#endif
+
+
+
+#if __IPHONE_OS_VERSION_MAX_ALLOWED > __IPHONE_6_1
+
+#define kCGImageAlphaPremultipliedLast  (kCGBitmapByteOrderDefault | kCGImageAlphaPremultipliedLast)
+
+#else
+
+#define kCGImageAlphaPremultipliedLast  kCGImageAlphaPremultipliedLast
+
+#endif
+
+

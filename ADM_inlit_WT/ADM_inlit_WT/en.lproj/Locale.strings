@@ -1,0 +1,218 @@
+/* 
+  Locale.strings
+  ADM_inlit_WT
+
+  Created by admin on 14-8-23.
+  Copyright (c) 2014年 com.aidian. All rights reserved.
+*/
+
+//菜单项列表
+"LISTOBJ1"="Home.";
+"LISTOBJ2"="Color&Brightness.";
+"LISTOBJ3"="ColorPhoto.";
+"LISTOBJ4"="Swither&Delay Timer.";
+"LISTOBJ5"="Music Mode.";
+"LISTOBJ6"="Sleep Mode.";
+"LISTOBJ7"="Scenes Mode.";
+"LISTOBJ10"="CeilingLight.";
+"LISTOBJ8"="Voice Mode.";
+"LISTOBJ9"="About Ours.";
+
+//菜单附件
+"LIST_Details1"="The Home page.";
+"LIST_Details2"="Smooth adjust among 16 million color.";
+"LIST_Details3"="Reflect color theme,recall your happy memory.";
+"LIST_Details4"="Smart timer,manage your lightings on/off.";
+"LIST_Details5"="Color change with music rhythm.";
+"LIST_Details6"="Dim to power off,take good care of your sleep .";
+"LIST_Details7"="Deliver unique lighting effects best fit for you.";
+"LIST_Details10"="Designed to ceiling lamp";
+"LIST_Details8"="Feel the color change with voice volume.";
+"LIST_Details9"="About our products.";
+
+//"LIST_Details1"="The Home page.";
+//"LIST_Details2"="Adjust Color/Brigness Tune.";
+//"LIST_Details3"="According to the picture changes color.";
+//"LIST_Details4"="Use a timer to on/off.";
+//"LIST_Details5"="Life is accompanied by music.";
+//"LIST_Details6"="Slowly turn off the lights in your sleep.";
+//"LIST_Details7"="More scenes with lights";
+//"LIST_Details8"="Feel the color change in the recording.";
+//"LIST_Details9"="About our products.";
+
+
+//警告提示宏
+"WARMING_TITLE"="Warning";
+"WARMING_OKBUTTON"="OK";
+
+
+
+"WARMING_ONOFF"="Please select a lamp to join operation again,or shake your phone to connect the last time the connection of lamps.";
+
+"WARMING_STA"="Your iphone has no link to the InLit_WT100 wifi network，please check your network!";
+
+"WARMING_Guangbo"="Your iphone has no link to the specified WiFi！";
+
+"WARMING_SSID"="Please enter the correct ssid and password！";
+
+"WARMING_ADDSCENES"="Save failed！Please select a color!";
+
+//各个页面标题
+
+"TITLE_Home"="InLit";
+"TITLE_Lamps"="Lamps";
+"TITLE_Lamps_group"="GroupList";
+"TITLE_Group"="Add group";
+"TITLE_Color"="Color/Brightness";
+"TITLE_Scenes"="Scenes Mode";
+"TITLE_ADDScenes"="Add Scenes";
+"TITLE_Music"="Music Mode";
+"TITLE_Timer"="Swither/Delay Timer";
+"TITLE_Picture"="ColorPhoto";
+"TITLE_About"="About Ours";
+"TITLE_Sleep"="Sleep Mode";
+"TITLE_Record"="Voice Mode";
+"TITLE_Xiding"="CeilingLight";
+"TITLE_WIFI" ="Connect to the Router";
+
+
+//场景模式固定9个场景标题
+
+"SCENES_Button1"="Bright";
+"SCENES_Button2"="Reading";
+"SCENES_Button3"="Warm";
+"SCENES_Button4"="Spring";
+"SCENES_Button5"="Cool";
+"SCENES_Button6"="Festive";
+"SCENES_Button7"="Night";
+"SCENES_Button8"="Skin";
+"SCENES_Button9"="Repeat";
+
+
+"Cancel_BUTTON" ="Cancel";
+"Save_BUTTON" ="Save";
+"ALL_BUTTON" ="All";
+"Group_BUTTON" ="Group";
+"Enlish_BUTTON" ="Enlish";
+"Chinese_BUTTON" ="Chinese";
+"Voice_BUTTON" ="Voice Control";
+"SET_Name" ="Set a name";
+
+"queding_BUTTON" ="O K";
+"quxiao_BUTTON" ="Cancel";
+
+
+"SettingRoot_LABEL" ="New a Router Setup";
+"WIFI_LABEL" ="WiFi :";
+"WIFI_TEXT" ="Enter SSID of WIFI";
+"PSW_LABEL" ="Key :";
+"Psw_TEXT" ="Enter WiFi Key";
+
+
+//HUD
+"HUD_Connect"="Wait a moment,now setting...";
+
+//睡眠
+"Time_label"="Plesae choice a sleep time";
+"Time_alert"="Plesae choice a time";
+"Time_sent"="Send sleep timer success！";
+
+
+//音乐模式
+"Music_Color"="Color";
+"Music_Bright"="Bright";
+
+//摇一摇
+"YaoYao_Hud" ="Connecting...";
+
+
+//////
+
+
+"Left_menu_BUTTON"="Menu";
+"Left_back_BUTTON"="Back";
+"Right_set_BUTTON"="Setting";
+"Right_search_BUTTON"="Refresh";
+"Right_config_BUTTON"="Config";
+"Right_add_BUTTON"="Add";
+"Right_new_BUTTON"="New";
+"Image_add_LABEL"="AddPhoto";
+
+"Lamp_LABEL"="No Device";
+
+
+//"WhiteON_LABEL"="白光已开";
+//"WhiteOFF_LABEL"="白光已关";
+//
+//"Color_val_LABEL"="3000色温";
+
+//录音
+
+"Mic_ON"="Microphone ON";
+"Mic_OFF"="Microphone OFF";
+
+
+//定时页面
+
+"Timer_ON"="Timer ON";
+"Timer_OFF"="Timer OFF";
+"Timer_Channel_ON"="Timer ON,Channel:";
+"Timer_Channel_OFF"="Timer OFF,Channel:";
+"Timer_Disabled"="Invalid time";
+"Timer_Color"="Selected Color";
+
+//灯控组别命名
+"Group_Name1"="Central Hall";
+"Group_Name2"="Kitchen";
+"Group_Name3"="Living room 1";
+"Group_Name4"="Living room 2";
+"Group_Name5"="Veranda";
+"Group_Name6"="Washroom 1";
+"Group_Name7"="Washroom 2";
+"Group_Name8"="Master Bedroom";
+"Group_Name9"="Dining Room";
+"Group_Name10"="Study Room";
+"Group_Name11"="Room 1";
+"Group_Name12"="Room 2";
+"Group_Name13"="Room 3";
+"Group_Name14"="Closet";
+"Group_Name15"="Unitled";
+
+
+/////////
+"Group_NAV_Name"="Set a group name";
+"ALL_NewName"="Set a new name";
+"Group_NAV_OK"="OK";
+"Group_NAV_Cancel"="Cancel";
+
+
+//版本更新
+"Update_Title" ="Update tip";
+"Update_NowVersion" ="This version is the latest version";
+"Update_Label" ="Found the new version, whether to update？";
+"Update_Close" ="Close";
+"Update_Godo" ="To update";
+
+//hud
+"HUD_NonetWork" ="No network connection";
+"HUD_setOK" ="Setting finished";
+"HUD_nowScan" ="Now scan lamps...";
+"HUD_ScanNumber" ="Scanning to ";
+"HUD_ScanNumber_two" ="lamps";
+"HUD_checkVersion" ="Now checking the new version";
+
+
+//关于我们页面
+
+"About_guide" ="Using guide";
+"About_version" ="Versions update";
+"About_our" ="About our";
+
+
+
+
+
+
+
+
+

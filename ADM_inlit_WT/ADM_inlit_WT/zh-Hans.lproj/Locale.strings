@@ -1,0 +1,190 @@
+/* 
+  Locale.strings
+  ADM_inlit_WT
+
+  Created by admin on 14-8-23.
+  Copyright (c) 2014年 com.aidian. All rights reserved.
+*/
+
+//菜单项列表宏
+"LISTOBJ1"="首页.";
+"LISTOBJ2"="调光调色.";
+"LISTOBJ3"="图片模式.";
+"LISTOBJ4"="定时开关.";
+"LISTOBJ5"="音乐律动.";
+"LISTOBJ6"="睡眠模式.";
+"LISTOBJ7"="自定义场景.";
+"LISTOBJ10"="吸顶灯.";
+"LISTOBJ8"="麦克风模式.";
+"LISTOBJ9"="关于我们.";
+
+//菜单附件
+"LIST_Details1"="菜单主页";
+"LIST_Details2"="彩白随意切换，1600万色彩随心所动";
+"LIST_Details3"="反映图片色彩设置，回忆幸福时光";
+"LIST_Details4"="定时功能，把握开关灯时间";
+"LIST_Details5"="灯光随音乐律动变化，激情四溢时尚的慢摇吧";
+"LIST_Details6"="灯光随时间渐暗关灯，呵护您的睡眠";
+"LIST_Details7"="自定义场景，开启您的丰富多彩的乐居生活";
+"LIST_Details10"="专为吸顶灯颜色亮度调节而设计";
+"LIST_Details8"="感受灯光随声音音量变化";
+"LIST_Details9"="关于我们的产品使用";
+
+
+//警告提示宏
+"WARMING_TITLE"="温馨提示";
+"WARMING_OKBUTTON"="确定";
+
+
+
+"WARMING_ONOFF"="请选择一个灯泡进行操作，或者摇一摇手机进行上一次灯泡的连接";
+"WARMING_STA"="您的手机当前WI-FI没有连接到灯泡InLit_WTXX网络中，请检查您的网络！";
+"WARMING_Guangbo"="您的手机没有连接到WIFI网络！";
+"WARMING_SSID"="请输入正确的WiFi和密码，密码必须大于8位！";
+"WARMING_ADDSCENES"="保存失败！请确保已经选择颜色后再进行保存！";
+
+
+//各个页面标题
+
+"TITLE_Home"="InLit";
+"TITLE_Lamps"="灯泡列表";
+"TITLE_Lamps_group"="分组列表";
+"TITLE_Group"="添加组";
+"TITLE_Color"="颜色/亮度";
+"TITLE_Scenes"="场景模式";
+"TITLE_ADDScenes"="添加场景";
+"TITLE_Music"="音乐模式";
+"TITLE_Timer"="定时任务";
+"TITLE_Picture"="图片模式";
+"TITLE_About"="关于我们";
+"TITLE_Sleep"="睡眠任务";
+"TITLE_Record"="录音模式";
+"TITLE_Xiding"="吸顶灯";
+"TITLE_WIFI" ="连接到路由";
+
+//场景模式固定9个场景标题
+
+"SCENES_Button1"="敞亮";
+"SCENES_Button2"="阅读";
+"SCENES_Button3"="温暖";
+"SCENES_Button4"="春意";
+"SCENES_Button5"="清凉";
+"SCENES_Button6"="喜庆";
+"SCENES_Button7"="夜灯";
+"SCENES_Button8"="护肤";
+"SCENES_Button9"="自动切换";
+
+//简单按钮、文字
+"Cancel_BUTTON" ="取消";
+"Save_BUTTON" ="保存";
+"ALL_BUTTON" ="单控制";
+"Group_BUTTON" ="组控制";
+"Enlish_BUTTON" ="英文";
+"Chinese_BUTTON" ="中文";
+"Voice_BUTTON" ="语音控制";
+"SET_Name" ="设定一个名称";
+
+
+"queding_BUTTON" ="确定";
+"quxiao_BUTTON" ="取消";
+
+"SettingRoot_LABEL" ="路由WiFi配置";
+"WIFI_LABEL" ="WiFi :";
+"WIFI_TEXT" ="请输入WiFi网络";
+"PSW_LABEL" ="密码 :";
+"Psw_TEXT" ="请输入WiFi密码";
+
+
+"HUD_Connect"="请稍等,正在配置路由...";
+
+
+//定时睡眠
+"Time_label"="请选择一个睡眠时间";
+"Time_alert"="请选择一个时间以便开始睡眠";
+"Time_sent"="发送睡眠定时成功！";
+
+//音乐模式
+"Music_Color"="颜色";
+"Music_Bright"="亮度";
+
+//摇一摇
+"YaoYao_Hud" ="正在连接上一次灯泡...";
+
+//////
+
+
+"Left_menu_BUTTON"="菜单";
+"Left_back_BUTTON"="返回";
+"Right_set_BUTTON"="设置";
+"Right_search_BUTTON"="刷新";
+"Right_config_BUTTON"="配置";
+"Right_add_BUTTON"="添加";
+"Right_new_BUTTON"="新建";
+"Image_add_LABEL"="添加封面";
+
+"Lamp_LABEL"="无设备连接";
+//"WhiteON_LABEL"="白光已开";
+//"WhiteOFF_LABEL"="白光已关";
+//
+//"Color_val_LABEL"="3000色温";
+
+//录音
+
+"Mic_ON"="麦克风开";
+"Mic_OFF"="麦克风关";
+
+//定时页面
+
+"Timer_ON"="定时开";
+"Timer_OFF"="定时关";
+"Timer_Channel_ON"="定时开,通道:";
+"Timer_Channel_OFF"="定时关,通道:";
+"Timer_Disabled"="无效的时间";
+"Timer_Color"="选定颜色";
+
+
+//灯控组别命名
+"Group_Name1"="中央大厅";
+"Group_Name2"="厨房";
+"Group_Name3"="客厅1";
+"Group_Name4"="客厅2";
+"Group_Name5"="阳台";
+"Group_Name6"="卫生间1";
+"Group_Name7"="卫生间2";
+"Group_Name8"="主卧室";
+"Group_Name9"="餐厅";
+"Group_Name10"="书房";
+"Group_Name11"="房间1";
+"Group_Name12"="房间2";
+"Group_Name13"="房间3";
+"Group_Name14"="壁橱";
+"Group_Name15"="Unitled";
+
+/////////
+"Group_NAV_Name"="输入分组名称";
+"ALL_NewName"="输入新的设备名称";
+"Group_NAV_OK"="确定";
+"Group_NAV_Cancel"="取消";
+
+//版本更新
+"Update_Title" ="更新提示";
+"Update_NowVersion" ="此版本为最新版本";
+"Update_Label" ="发现新版本的发布，为了更好地体验，建议您前往更新使用新的软件版本！是否前往更新？";
+"Update_Close" ="以后再说";
+"Update_Godo" ="前往更新";
+
+
+//hud
+"HUD_NonetWork" ="无网络连接";
+"HUD_setOK" ="完成配置";
+"HUD_nowScan" ="正在扫描灯泡...";
+"HUD_ScanNumber" ="共扫描到";
+"HUD_ScanNumber_two" ="个设备";
+"HUD_checkVersion" ="正在检测新版本...";
+
+//关于我们页面
+
+"About_guide" ="使用向导";
+"About_version" ="版本更新";
+"About_our" ="关于我们";
+
